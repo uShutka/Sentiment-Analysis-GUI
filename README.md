@@ -1,3 +1,5 @@
+![License](https://img.shields.io/github/license/uShutka/Sentiment-Analysis-GUI.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/uShutka/Sentiment-Analysis-GUI.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/uShutka/Sentiment-Analysis-GUI.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/uShutka/Sentiment-Analysis-GUI.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/uShutka/Sentiment-Analysis-GUI.svg?style=for-the-badge)
+
 # Sentiment-Analysis-GUI
 
 The Sentiment Analysis GUI is a Python application that allows users to input text and analyze its sentiment using TextBlob, a Python library for natural language processing. The application has a graphical user interface (GUI) created using the tkinter library.
@@ -33,3 +35,5 @@ If you find a bug or have a feature request, please open an issue or submit a pu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<a href="mailto:acosinov@bk.ru"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
